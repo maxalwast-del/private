@@ -22,11 +22,10 @@ Schritte:
 
 ## 3. Daily Kick-off (Morgen-Briefing)
 Führe den Workflow "Daily Kick-off" aus.
-Meine heutige Energie liegt bei [1-10], mein Fokus bei [1-10]. Ich habe heute [X] Stunden Zeit für Deep Work.
-Schritte:
-1. Scanne identity/bio.md, um meine ideale Tagesstruktur (Default Architecture) abzugleichen.
-2. Prüfe areas/career_growth.md nach den aktuellen Fokus-Skills/Projekten, die heute Relevanz haben.
-3. Erstelle mir einen harten, realistischen Stundenplan für den heutigen Tag. Pass die Komplexität der Aufgaben an meine heutige Energie an (bei Energie < 5: Fokus auf administrative/leichte Aufgaben).
+1. Frage mich wo meine heutige Energie liegt bei [1-10], mein Fokus bei [1-10]. Ich habe heute [X] Stunden Zeit für Deep Work?
+2. Scanne identity/bio.md, um meine ideale Tagesstruktur (Default Architecture) abzugleichen.
+3. Prüfe areas/career_growth.md nach den aktuellen Fokus-Skills/Projekten, die heute Relevanz haben.
+4. Erstelle mir einen harten, realistischen Stundenplan für den heutigen Tag. Pass die Komplexität der Aufgaben an meine heutige Energie an (bei Energie < 5: Fokus auf administrative/leichte Aufgaben).
 
 ## 4. Post-Work Shutdown & Log
 Führe den Workflow "Shutdown" aus.
