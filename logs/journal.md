@@ -17,3 +17,9 @@
 * **Engpässe / Reibung:** Uni war der große Energieräuber. Weiterhin keine Übernahme-Zusage – das hängt als Unsicherheit über dem Tag. Das Gespräch mit Martin hat nichts gebracht / keine Klarheit geliefert.
 * **Metriken:** Energie (1-10): 7 | Fokus (1-10): 5 | Schlafqualität: 7
 * **Erkenntnis für morgen:** Uni-Blöcke bewusst timeboxen und in den energiereichen Vormittag legen, damit der Drain nicht den ganzen Tag frisst. Beim Übernahme-Thema nicht weiter auf Martin warten – aktiv einen nächsten konkreten Schritt setzen.
+
+[2026-06-04] – Tagesfokus: Lernen & Sales-Übernahme (Atos)
+Highlights / Siege: Lernen lief gut. Meeting zur möglichen internen Sales-Übernahme bei Atos geführt. Sport lief gut. Sehr gut gegessen (abseits vom Mittag). Qualitytime mit Bae.
+Engpässe / Reibung: Spät aufgestanden → kürzerer produktiver Tag. Mittagstief durch nicht optimales Mittagessen + Mittagsschlaf; insgesamt eher müde.
+Metriken: Energie (1-10): 5 | Fokus (1-10): 6 | Schlafqualität: 8
+Erkenntnis für morgen: Schlafenszeit hart vor 0:00 ziehen – Root Cause für spätes Aufstehen + Müdigkeit. Mittagessen leichter wählen. Routine straffen.
